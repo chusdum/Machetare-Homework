@@ -1,0 +1,80 @@
+body
+{
+    font-family: 'Manjari', sans-serif !important;
+    
+    background-color: #333;
+    
+    
+}
+
+#cross-menu{
+
+    background-color: #306ba8;
+    width: 200px;
+    
+}
+
+
+
+#cross-menu li:nth-child(1){
+    width: 25px;
+    height: 242px;
+    float: left;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    padding: 26px 0 20px 10px;
+    border-right: 1px solid rgb(49, 49, 49);
+    font-weight: bold;
+    font-size: 18px;
+    color: #184668;
+   
+}
+
+ #cross-menu li:nth-child(2)
+{
+    margin-left: 36px;
+    border-bottom: 1px solid rgb(49, 49, 49);
+    padding: 20px;
+}
+#cross-menu li:nth-child(3)
+{
+    /* padding: 10px; */
+    margin-left: 36px;
+    border-bottom: 1px solid rgb(49, 49, 49);
+    padding: 20px;
+    
+}
+#cross-menu li:nth-child(4)
+{
+    /* padding: 10px; */
+    margin-left: 36px;
+    border-bottom: 1px solid rgb(49, 49, 49);
+    padding: 20px;
+}
+#cross-menu li:nth-child(5)
+{
+    /* padding: 10px; */
+    margin-left: 36px;
+    border-bottom: 1px solid rgb(49, 49, 49);
+    padding: 20px;
+}
+#cross-menu li:nth-child(6)
+{
+    /* padding: 10px; */
+    margin-left: 36px;
+    padding: 20px;
+} 
+#cross-menu li:nth-child(3):hover{
+    
+    background-color: #275586;
+}
+
+#cross-menu a{
+    color: white;
+    text-decoration: none;
+    
+}
+#cross-menu i
+{
+    margin-left: 45px;
+}
